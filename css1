@@ -796,7 +796,7 @@ a:hover .title span {
 }*/
 
 .l-top_menu-v2 .logo-container .logo {
-    background: url(https://i.ibb.co/qLTfQJCQ/Panel-133360476-image-d67d9920-bf42-45be-9339-7f5514bd9666.jpg) no-repeat center;
+    background: url(https://i.ibb.co/vK5HHtK/logo-shiki.jpg) no-repeat center;
     height: 32px;
     margin-top: 8px;
 }
