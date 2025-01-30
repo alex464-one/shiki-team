@@ -162,50 +162,6 @@ body:after {
     position: relative;
 }
 
-/* цвет вкладок под никнеймом */
-.b-link,
-.b-mention,
-.b-mention:before,
-.b-mention s,
-.b-mention span {
-    color: rgba(var(--bright-color), 1) !important;
-    cursor: pointer;
-    transition: 0.3s ease, width 0s, margin 0s, padding 0s, font-size 0s, height 0s, top 0s, left 0s, line-height 0s,
-    min-height 0s;
-}
-
-.b-mention:hover s {
-    text-decoration: none !important;
-    color: rgba(var(--hover-color), 1) !important;
-}
-
-.b-link:hover,
-.b-mention:hover,
-.b-mention:hover:before,
-.b-mention:hover span,
-.b-mention:hover s {
-    text-decoration: none !important;
-    color: rgba(var(--hover-color), 1) !important;
-}
-
-header.head .misc {
-    max-width: 100%;
-    width: 100%;
-}
-
-* .c-brief header.head h1 {
-    border-bottom: none;
-    color: rgba(var(--white-color), 1) !important;
-    font-family: Comfortaa, sans-serif;
-    text-shadow: 2px -2px 0 rgba(var(--nick-cover), 1), -2px 2px 0 rgba(var(--nick-cover), 1),
-    -2px -2px 0 rgba(var(--nick-cover), 1), 2px 2px 0 rgba(var(--nick-cover), 1),
-    0 -2px 0 rgba(var(--nick-cover), 1), 0 2px 0 rgba(var(--nick-cover), 1),
-    2px 0 0 rgba(var(--nick-cover), 1), -2px 0 0 rgba(var(--nick-cover), 1);
-    font-size: 34px;
-    line-height: 38px;
-    pointer-events: none;
-}
-
 /* цвет заголовков */
 header.head h2,
 header.head h1 {
