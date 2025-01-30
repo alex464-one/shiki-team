@@ -791,15 +791,15 @@ a:hover .title span {
 }
 
 /* закрашенные звезды */
-.b-rate .stars.score {
-    color: rgba(var(--white-color), 1);
-}
-
-.l-top_menu-v2 .logo-container .logo {
-    background: url(https://image.ibb.co/cxV9kV/shiki-logo.png) no-repeat center;
-    height: 32px;
-    margin-top: 8px;
-}
+/*.b-rate .stars.score {
+/*    color: rgba(var(--white-color), 1);
+/*}
+/*
+/*.l-top_menu-v2 .logo-container .logo {
+/*    background: url(https://image.ibb.co/cxV9kV/shiki-logo.png) no-repeat center;
+/*    height: 32px;
+/*    margin-top: 8px;
+/*}
 
 /* при наводке звезды */
 .b-rate .stars.hover {
