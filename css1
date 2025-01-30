@@ -790,10 +790,11 @@ a:hover .title span {
     color: rgba(var(--hover-color), 1);
 }
 
- /*закрашенные звезды */
+/* закрашенные звезды */
 .b-rate .stars.score {
-   color: rgba(var(--white-color), 1);
+    color: rgba(var(--white-color), 1);
 }
+
 .l-top_menu-v2 .logo-container .logo {
     background: url(https://i.ibb.co/vK5HHtK/logo-shiki.jpg) no-repeat center;
     height: 32px;
